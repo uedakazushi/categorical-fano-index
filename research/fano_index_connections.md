@@ -188,7 +188,7 @@ del PezzoでHH³=0、さらに次数≤5ではHH¹=0となる。tiltingを用い
 | KellerDP | Keller, *Hochschild cohomology and derived Picard groups*, J. Pure Appl. Algebra190(2004)177–196, https://arxiv.org/abs/math/0310221 ; https://webusers.imj-prg.fr/~bernhard.keller/publ/hdpabs.html | C：著者abstractと書誌を確認。今回の証明には使わない。 |
 | Opper | Sebastian Opper, *Integration of Hochschild cohomology, derived Picard groups and uniqueness of lifts*, https://arxiv.org/abs/2405.14448 | B：Introduction、Theorems A/B/CとHH¹_+、BCH、injectivity条件、Morita非不変性。証明全文未監査・接続のみ。 |
 
-未取得・未確認の文献内容は、推測で補わず証明の入力にしない。旧認識論文のAZ/Artin–Stafford等に関する確認限界は `research_notes.tex` の文献節に保持している。最新の全研究動向の網羅性を保証するものではない。
+未取得・未確認の文献内容は、推測で補わず証明の入力にしない。次数9認識に固有のAZ/Artin–Stafford等の確認限界は別リポジトリ `nc-dp9` の `research/research_notes.tex` に保持する。最新の全研究動向の網羅性を保証するものではない。
 
 ## 5. 次の課題：具体的な着手順
 

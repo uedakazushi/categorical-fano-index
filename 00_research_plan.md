@@ -28,7 +28,7 @@
 - **次数4とグラフ（証明記載・有限検算）**：`thm:bipartite-roots`, `cor:graph-formal`。二座標符号根を可換に選べることと対応グラフの二部性が同値。固定した選択では共有頂点係数の一致も必要。有限商は位数2^(|V_E|−c_E)、形式次元は7−|V_E|。全五頂点を覆えば同時根付き全形式変形は可換。奇閉路は有限商を妨げるが、同時変形そのものの非存在とはしない。
 - **量子平面の基準族（既知代数の直接応用）**：`prop:quantum-three-roots`, `prop:quantum-tangent`。cyclic skew polynomial族のNakayamaは恒等、shift・対角・巡回による三つの三乗根が全fiberで存在。共通Hesse接空間は2次元。既知のskew polynomial族がxyz方向を実現し、Sklyanin族 `prop:hesse-two-param` が両方向を実現。次数4/Fermat三次の代数化は未完。
 - **奇閉路の無限商（証明記載・独立検算）**：三角形の具体的な三根で `prop:triangle-lattice` は反Serre商を3次元affine群として忠実に記述し、translation latticeを同parityの整数三つ組と同定する。商は `1→Λ≅Z³→Γ/〈τ〉→(Z/2)²→1`。Hochschild固定空間は4次元だが高次持上げは未証明。一次元の無限二面体型という不正確な見積りは採らない。
-- **保持する結果**：通常の線束根の全一次持上げ、P²の同数値根で固定HH²次元10/4、Gepner非存在、entropy=(0,dimX)。数値指数論文の古典回復・norm・格子・del Pezzo指数・三次元整数値条件、認識論文の全条件付き定理も保持する。
+- **保持する結果**：通常の線束根の全一次持上げ、P²の同数値根で固定HH²次元10/4、Gepner非存在、entropy=(0,dimX)。数値指数論文の古典回復・norm・格子・del Pezzo指数・三次元整数値条件を本研究に保持する。次数9認識論文の条件付き定理と全証明は別リポジトリ `nc-dp9` に保持する。
 
 形式存在は有限型代数化ではない。異なる根の固定部分の同時線型化も未証明で、同じ接空間から高次固定部分が一致しない明示模型を `ex:nonlinear-fixed` に保持する。HH¹非零の場合、root pairの巡回coherence、一般の非可換KO上界は未解決。独立新規性は未確定。
 
